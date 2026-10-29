@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-gray-50 text-gray-900 font-sans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI in Customer Service Knowledge Base</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom transitions for expand/collapse */
+        .answer-content {
+            transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            max-height: 0;
+            opacity: 0;
+            overflow: hidden;
+        }
+        .answer-content.expanded {
+            max-height: 500px;
+            opacity: 1;
+            margin-top: 1rem;
+        }
+        .chevron {
+            transition: transform 0.3s ease-in-out;
+        }
+        .expanded-btn .chevron {
+            transform: rotate(180deg);
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+    <!-- Header -->
+    <header class="bg-blue-600 text-white shadow-md">
+        <div class="max-w-5xl mx-auto px-4 py-6">
+            <h1 class="text-3xl font-bold">AI & Copilot Knowledge Base</h1>
+            <p class="mt-2 text-blue-100">Explore questions and answers regarding Microsoft Copilot, AI in customer service, and best practices.</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow w-full max-w-5xl mx-auto px-4 py-8">
+        <!-- Controls -->
+        <div class="flex justify-between items-center mb-6">
+            <h2 class="text-2xl font-semibold text-gray-800">Questions <span id="question-count" class="text-sm font-normal text-gray-500 bg-gray-200 px-2 py-1 rounded-full ml-2">0</span></h2>
+            <div class="flex gap-4">
+                <button id="expand-all" class="text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors">Expand All</button>
+                <button id="collapse-all" class="text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors">Collapse All</button>
+            </div>
+        </div>
+
+        <!-- Search bar -->
+        <div class="mb-8">
+            <input type="text" id="search-bar" placeholder="Search questions..." class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-shadow shadow-sm outline-none">
+        </div>
+
+        <!-- Question List Container -->
+        <div id="questions-container" class="space-y-4">
+            <!-- Questions will be injected here via JavaScript -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 border-t border-gray-200 mt-auto">
+        <div class="max-w-5xl mx-auto px-4 py-6 text-center text-gray-500 text-sm">
+            &copy; 2023 AI Knowledge Base. Generated for demonstration purposes.
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,322 @@
+Question 1
+How does Copilot for Service assist with information verification in customer service interactions?
+1. It provides citations that you can click to view the source information in context.
+2. It lists general publication titles.
+3. It lists all sources that might be related to the topic.
+4. It searches one source at a time, which you can then cite.
+Answer: 1
+
+Question 2
+You are working with the following data in Excel, and Copilot is unable to perform calculations on the dataset. Why is this?
+1. The data is not formatted as a table.
+2. The data contains both whole numbers and fractions.
+3. The data is not separated by commas.
+4. The data does not consist of between 5 and 1,000 rows.
+Answer: 1
+
+Question 3
+As VP of customer experience, you are responsible for, as your CEO puts it, "future-proofing customer service." AI capabilities, competitor services, and customer expectations are all developing rapidly. What is your best course of action?
+1. Rapidly implement the latest AI technologies to stay ahead of competitors.
+2. Maintain an inventory of new AI capabilities and continuously look for ways you can use them.
+3. Develop an ongoing, cross-functional approach to innovation and improvement, using customer expectations as a framework.
+4. Delay AI adoption until technologies are mature enough that you can maintain traditional customer service experience.
+Answer: 3
+
+Question 4
+You are preparing a multiyear strategic hiring and staffing plan for your organization. You are considering staffing levels as well as skill and knowledge requirements. Which of the following statements best describes the impact generative AI will have on customer service work?
+1. It will primarily be used for data analysis and predictive analytics, with minimal impact on agent-to-customer interactions.
+2. It will not replace customer service roles, but it will change how people work.
+3. It will automate most B2C customer service roles within the next five years.
+4. It will affect entry-level positions, but senior roles will remain largely unchanged.
+Answer: 2
+
+Question 5
+You are preparing a business case for incorporating AI capabilities into your sales and service operations, including identifying challenges and risks. Which of the following is the most significant challenge of adopting AI into your sales and service operations?
+1. the high cost of sales- and service-specific AI implementations
+2. integrating AI tools with legacy systems and workflows
+3. a lack of AI technologies focused on the specifics of sales and service
+4. a lack of available AI technologies specifically focused on sales and service
+Answer: 2
+
+Question 6
+Which of the following statements is true regarding Copilot integration with Microsoft 365 applications?
+1. You can use Copilot inside Word, Excel, PowerPoint, OneNote, Outlook, and Teams with individual subscriptions for each of these applications.
+2. You can use Copilot inside Word, Excel, PowerPoint, OneNote, Outlook, and Teams with a paid business subscription.
+3. Copilot features are available to all users and within all Microsoft 365 applications, with no subscription required.
+4. Copilot is a standalone tool, but input and output can be set up to automatically sync with Microsoft 365 applications.
+Answer: 2
+
+Question 7
+Your customer service team has asked you to create and leverage videos to help support customers, and you're exploring Script Timer. For which purpose would you be least likely to use this tool?
+1. writing the script of a speech or video
+2. estimating the run time of a video or presentation
+3. editing and splicing footage for a video
+4. developing a voice-over for a script
+Answer: 3
+
+Question 8
+Which of the following is not a way you can use the Copilot chat assistant?
+1. to make purchases
+2. to create new pictures with the DALL-E AI image model
+3. in the Copilot mobile app
+4. with voice or keyboard input
+Answer: 1
+
+Question 9
+You're implementing an AI-powered customer service chatbot. Some team members express concerns about potential biases in the AI's responses. What approach best aligns with ethical AI implementation?
+1. Take a hands-off approach that allows for quick improvements if necessary, as AI systems learn and get better over time.
+2. Use a broad spectrum of data to train the AI system and apply bias detection methods.
+3. Implement a feedback loop in which customers rate AI interactions and the ratings are used to refine responses.
+4. Develop a tiered system in which the most complex queries are automatically escalated to human agents.
+Answer: 2
+
+Question 10
+Which of the following would not be part of an ethical framework for AI initiatives?
+1. maintaining confidentiality of AI algorithms used to make decisions
+2. striving for accuracy of information provided to customers
+3. ensuring fair and unbiased treatment of all customers
+4. handling data responsibly, complying with laws, and having clear policies on storage, usage, and consent
+Answer: 1
+
+Question 11
+What is the primary function of Copilot for Service in customer relationship management (CRM) systems?
+1. It is an email automation tool and response tracking system.
+2. It is a storage tool that CRM systems can draw from for service interactions.
+3. It can search internal support content and customer histories.
+4. It builds workload forecasts and customer service agent schedules.
+Answer: 3
+
+Question 12
+What is a key benefit of using middleware with AI in a customer service operation?
+1. It can enable seamless integration of different systems.
+2. It can provide humanlike customer service.
+3. It can provide decision-tree options for managers.
+4. It can automatically generate customer support content.
+Answer: 1
+
+Question 13
+You're using Copilot in Word to draft a technical report that will be used to help your organization's leadership team understand marketplace and competitive trends. The AI generates a paragraph with an unfamiliar statistic. What action best aligns with responsible AI use?
+1. Include the paragraph as is if the statistic makes sense in context.
+2. Use reliable sources to verify the statistic or remove it from the paragraph.
+3. Replace the specific statistic with a generalization of its meaning.
+4. Remove the paragraph to avoid any potential inaccuracies.
+Answer: 2
+
+Question 14
+You are the sales and services manager for a small construction company, and you would like to use the features of Copilot for Sales and Copilot in Outlook to build closer relationships with customers. How can you best leverage these tools?
+1. Use Copilot in Outlook to identify potential leads, and use Copilot for Sales to provide scripts to guide conversations with those leads.
+2. Use Copilot for Sales to create marketing materials, and use Copilot in Outlook to send those materials to contacts via text or email.
+3. Use Copilot for Sales to analyze customer data and predict needs, and use Copilot in Outlook to draft personalized emails based on those insights.
+4. Use Copilot for Sales to generate automated sales reports, and use Copilot in Outlook to schedule meetings with customers who do not meet sales thresholds.
+Answer: 3
+
+Question 15
+As a manager for a sports apparel company, you've been asked to prepare a blog post to promote a new product line. Which of the following sources would be most helpful for gaining insight into what people are searching for online related to your products?
+1. customer support tickets
+2. Medium
+3. AnswerThePublic
+4. social media insights
+Answer: 3
+
+Question 16
+Which of the following is not one of the "nifty nine," or the nine key ways AI is assisting with customer service today?
+1. creating humanlike emotional connections
+2. automating repetitive tasks
+3. powering chatbots and virtual assistants
+4. analyzing customer sentiment
+Answer: 1
+
+Question 17
+Which of the following statements about Copilot Prompt Gallery is true?
+1. Copilot Prompt Gallery is structured as FAQ documents that you can search to find answers.
+2. Copilot Prompt Gallery covers general AI topics and trends and includes a summary of all AI products on the market.
+3. Copilot Prompt Gallery is a comprehensive learning resource where you can build your skills and knowledge of Copilot.
+4. Copilot Prompt Gallery requires a fee-based subscription separate from other Copilot products.
+Answer: 3
+
+Question 18
+To maintain authenticity and build trust with your customers when delivering customer service, which two of the following ingredients are most important?
+1. Prioritize personalization during customer interactions above other criteria for AI tools.
+2. Make sure customers know they're interacting with an AI tool, not a human.
+3. Ensure AI-enabled interactions reflect your brand identity and connect with customer needs.
+4. Create a sophisticated AI personality that can pass as human to customers.
+5. Implement some form of AI across all customer interactions to ensure consistency.
+Answer: 2, 3
+
+Question 19
+You work for a fast-growing company that makes specialty gear for professional photographers—lenses, camera cases, tripods, and other products. You are tasked with translating customer support materials into the native languages of the markets and countries you are entering. As you look to AI tools for help, which two of the following steps are essential to this effort?
+1. Let AI randomly generate cultural references to maximize localization in each market.
+2. Have someone who speaks the native language review the AI-translated content.
+3. Ensure that graphics and images are appropriate for the country or region you are translating materials for.
+4. Rely on the AI translation to keep the content free of any biases your company may have.
+5. Use the same AI-produced images and graphics across all markets to maintain brand consistency.
+Answer: 2, 3
+
+Question 20
+You are replying to a client, Lauren Trubody, in Outlook. Here is what you have entered into the Copilot pane so far: "Draft a reply to Lauren confirming that we will complete the requirements review by Friday and that the updated project timeline is attached." Which two of the following would be good next additions to the prompt?
+1. a summary of every milestone completed on the project to date
+2. a call to action inviting Lauren to schedule a follow-up call
+3. a comparison of the Cincinnati and San Diego markets
+4. a list of every team member who contributed to the timeline
+5. a request that the reply use a warm and professional tone
+Answer: 2, 5
+
+Question 21
+You are the director of sales and service for a company that provides repair and maintenance services for commercial properties. You and your sales and service teams are intent on identifying ways AI can help improve processes and results. While some AI capabilities help you do your jobs better, you are also running into limitations: you can't just "press a button" and have AI take over. What is the best way to view the limitations of AI in sales and service roles?
+1. They reveal where human skills are needed to complement AI capabilities.
+2. They make AI unsuitable for use in most sales and service environments.
+3. They primarily affect sectors with legal or regulatory risk.
+4. They will be overcome in the future.
+Answer: 1
+
+Question 22
+What is a key characteristic of generative AI that distinguishes it from traditional machine learning?
+1. the ability to create new, contextual content
+2. a lower cost of implementation
+3. the need for less training data
+4. a faster processing speed
+Answer: 1
+
+Question 23
+As director of sales and service, you are seeing ways AI might displace entry-level employees in your operation. From a strategic, future-oriented point of view, which of the following is the most important concern you will need to address?
+1. AI may make mistakes that entry-level employees wouldn't.
+2. AI may not be able to handle complex customer interactions as well as humans, putting customer experience at risk.
+3. Replacing entry-level employees with AI could hamper the development of more senior-level talent in the future.
+4. Entry-level employees could lose motivation to develop in their careers--why try if AI can do it?
+Answer: 3
+
+Question 24
+You are a lawyer who specializes in helping companies understand and comply with evolving regulations. How can AI best help you market and grow your practice?
+1. It can help predict stock prices so you can advise clients on where to invest.
+2. It can reduce the need for you to employ financial or legal analysts.
+3. It can analyze a company's filings to help you identify specific risks and challenges.
+4. It can automatically build and implement a business plan for your services.
+Answer: 3
+
+Question 25
+You're using AI-powered tools to redesign your company's website. The AI has generated a sleek, modern design, but it doesn't quite capture your brand's unique personality. What is the best way to use AI in this situation?
+1. Use the AI design as a starting point, iterating prompts and customizing output as needed to reflect your brand identity.
+2. Continue running the AI tool multiple times until it generates a design that better fits your brand personality.
+3. Use the AI design as a source of ideas, and hire a human designer to complete the project.
+4. Use the AI-generated design as is to ensure a modern look.
+Answer: 1
+
+Question 26
+What is the best definition of an explainer video?
+1. a video blog or letter that typically features a narrator talking directly to the camera
+2. a video designed to train clients and move them toward purchasing products
+3. a video that incorporates AI-generated avatars to deliver marketing messages
+4. a video that demonstrates how to create digital avatars
+Answer: 2
+
+Question 27
+Which of the following is the best description of prompting?
+1. It's a process in which you feed preprogrammed inputs into the AI to guide its responses.
+2. It's a standardized but expansive set of commands that you can use to interact with any generative AI system.
+3. It's a conversation where you can use everyday words and engage in a back-and-forth with the AI to get desired results.
+4. It's a method that lets you use keywords to trigger predefined AI responses.
+Answer: 3
+
+Question 28
+Which of the following is not a capability of Copilot for Service?
+1. predictively routing customers to specific departments based on their purchase history
+2. creating orders for replacement parts during a Teams call
+3. drafting follow-up emails summarizing customer conversations
+4. accessing internal documentation to diagnose customer issues
+Answer: 1
+
+Question 29
+You're preparing for a follow-up meeting with your manager. To help you understand a previous meeting where your manager asked for input and direction, you're using Copilot in Teams. You provide Copilot with a series of prompts. Which of the following prompts is least likely to be helpful to you?
+1. "Tell me what happened in the meeting."
+2. "Please use simple language so I can get up to speed quickly."
+3. "Tell me what happened in this meeting to prepare me for a follow-up meeting with my manager."
+4. "List the questions Leni asked and any action items she requested."
+Answer: 2
+
+Question 30
+You're a manager with a company that specializes in educational travel opportunities. You've been tasked with increasing the number of qualified leads in your company's database—specifically, by harnessing AI carousel capabilities to create a lead magnet that attracts potential customers. Which of the following would be the most effective lead magnet for building your list?
+1. a social media photo contest in which participants can win study abroad experiences
+2. a free downloadable guide to your company's top 10 travel destinations, offered in exchange for the visitor's email address
+3. a series of online workshops featuring travel experts who discuss how to plan international trips
+4. a promotional email campaign showcasing your company's travel packages, sent to a rented list of university alumni
+Answer: 2
+
+Question 31
+Which of the following tools can help you repurpose long-form video content and scripts into multiple types of assets (such as viral video clips, LinkedIn posts, blog posts, newsletters, and others) that you can use on your social media feed?
+1. Medium
+2. AnswerThePublic
+3. Alphana
+4. LinkedIn Links
+Answer: 3
+
+Question 32
+Your company provides online banking apps that are both user-friendly and robust. Many of your prospective customers (primarily small and midsize credit unions) are aware they have a problem and that various solutions are available, but they are not sure which product or service is best for them. Which part of the sales funnel are they in?
+1. decision-aware: bottom of the funnel
+2. unaware: top of the funnel
+3. solution-aware: middle of the funnel
+4. pre-exploration phase: not yet in the funnel
+Answer: 3
+
+Question 33
+Of the following, where would you not be able to access the Copilot chat assistant?
+1. through the Windows Start menu
+2. through the website copilot.microsoft.com
+3. through the Copilot mobile app on iPhone or Android
+4. through the Copilot icon in the Windows taskbar
+Answer: 1
+
+Question 34
+Which of the following statements about Copilot in Teams is false?
+1. Copilot can let you know where each attendee stands on issues that are being discussed.
+2. Copilot can predict which team members will agree or disagree with each proposed idea discussed.
+3. Copilot is active during meetings to help you catch up or review something someone just said.
+4. Copilot can examine a transcript and provide you with talking points based on your prompts.
+Answer: 2
+
+Question 35
+Your company provides insurance analysis services, enabling customers to choose the best providers for their unique situations. Your marketing efforts have helped prospects better understand their insurance optimization needs and your company's services. However, you're struggling to convert those prospects into paying customers. Of the following, what should be your primary focus to improve sales and conversions?
+1. Boost your social media advertising budget to reach a wider audience and create more engaging content that leads to overall brand awareness.
+2. Redesign your website to include more comprehensive information about insurance analysis, and implement a chatbot to answer general FAQs.
+3. Develop detailed case studies and testimonials, then create a targeted email campaign to share these success stories with your prospects.
+4. Launch a publicity campaign focused on thought leadership, including guest articles in publications your prospects are likely to read and speaking engagements they may see.
+Answer: 3
+
+Question 36
+Which statement about working with Copilot in Microsoft 365 applications is true?
+1. Some Copilot features require that your files be stored in a Microsoft online storage tool.
+2. Copilot is a set of standalone tools, each with output that can be imported into other Microsoft applications.
+3. Copilot is one tool with modules that enable functionality with different Microsoft applications.
+4. Most Copilot features are available on Windows and Mac but not in online apps on the Office 365 website.
+Answer: 1
+
+Question 37
+Which of the following tactics best aligns with ensuring that AI successfully integrates with and supports your customer service processes?
+1. Approach AI integration as an iterative process, launching basic capabilities and then making improvements.
+2. Start by implementing AI capabilities that don't require the involvement of customer service employees.
+3. As much as possible, don't let customers know when they are interacting with AI so you get their unbiased feedback on the process.
+4. Launch standalone AI tools first, then integrate them with existing systems once they are stable.
+Answer: 1
+
+Question 38
+Which of the following statements best reflects a recommended practice for managing AI?
+1. Keep a human in the loop to check the AI's work.
+2. Assign an AI oversight team that is separate from system developers.
+3. Provide AI with increasing autonomy as it proves itself.
+4. Have AI systems check AI work.
+Answer: 1
+
+Question 39
+You are a CTO and are selecting an AI vendor for your company's customer service chatbot. Your team has identified several potential vendors; each one claims their chatbot has unique capabilities. Given the speed of chatbot development, your team is not confident they've identified all the capabilities that might be important to your company. What should be your first step in the vendor evaluation process?
+1. Host a series of vendor presentations to compare their offerings directly.
+2. Issue a request for information (RFI) to gather capabilities and insights from each vendor.
+3. Implement small-scale pilot projects with the top three vendors.
+4. Ask another department to audit and select the best vendor.
+Answer: 2
+
+Question 40
+As an analyst for a milling company that provides wheat and oat flour to business customers (bakers and grocery stores), you are analyzing purchasing data in a large Excel file that is formatted as a table. The file provides information in columns such as customer segment, average purchase size, annual spend, and others. Which of the following capabilities does Copilot not offer to help you make sense of this data?
+1. reconciling discrepancies with your accounting software
+2. sorting and filtering data to show the most relevant information
+3. providing a prompt guide that helps you create prompts
+4. creating pivot charts
+Answer: 1
